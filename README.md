@@ -1,4 +1,4 @@
-# MOVIEDISCOVERYAPP
+# MovieDiscoveryApp
 
 Overview
 - This is a React Native application utilizing React Query for API data fetching with caching strategies, alongside Redux for client-side global state. Caching in React Query is persisted using PersistQueryClientProvider, allowing for efficient data retrieval and management.
